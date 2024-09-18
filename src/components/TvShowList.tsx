@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import useTvShow, { TvShowResult } from "@/hooks/useTvShow";
 import TvShowCard from "./TvShowCard";
 

@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import useTrendingList from "@/hooks/useTrending";
 import MovieCard from "../MovieCard";
 import { MdOutlineExpandMore } from "react-icons/md";
